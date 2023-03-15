@@ -25,3 +25,16 @@
 #container a {
   text-decoration: none;
 }
+
+#lamp {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.lampada {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+  padding-top: 155px;
+}
